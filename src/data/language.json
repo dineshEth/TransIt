@@ -1,0 +1,209 @@
+[
+    {
+        "language" : "arabic",
+        "code" : "ar"
+    },
+    {
+        "language" : "assamese",
+        "code" : "as"
+    },
+    {
+        "language" : "bulgarian",
+        "code" : "bg"
+    },
+    {
+        "language" : "bhojpuri",
+        "code ": "bho"
+    },
+
+    {
+        "language" : "bislama",
+        "code" : "bi"
+    },
+    {
+        "language" : "bengali",
+        "code" : "bn"
+    },
+    {
+        "language" : "tibetan",
+        "code" : "bo"
+    },
+    {
+        "language" : "catalan",
+        "code" : "ca"
+    },
+    {
+        "language" : "danish",
+        "code" : "da"
+    },
+    {
+        "language" : "german",
+        "code" : "de"
+    },
+    {
+        "language" : "greek",
+        "code" : "el"
+    },
+    {
+        "language" : "english",
+        "code" : "en"
+    },
+    {
+        "language" : "esperanto",
+        "code" : "eo"
+    },
+    {
+        "language" : "spanish",
+        "code" : "es"
+    },
+    {
+        "language" : "estonian",
+        "code" : "et"
+    },
+    {
+        "language" : "persian",
+        "code" : "fa"
+    },
+    {
+        "language" : "fijian",
+        "code" : "fj"
+    },
+    {
+        "language" : "french",
+        "code" : "fr"
+    },
+    {
+        "language" : "gujarati",
+        "code" : "gu"
+    },
+    {
+        "language" : "hindi",
+        "code" : "hi"
+    },
+    {
+        "language" : "hungarain",
+        "code" : "hu"
+    },
+    {
+        "language" : "indonesian",
+        "code" : "id"
+    },
+    {
+        "language" : "italian",
+        "code" : "it"
+    },
+    {
+        "language" : "japanese",
+        "code" : "ja"
+    },
+    {
+        "language" : "kannada",
+        "code" : "kn"
+    },
+    {
+        "language" : "korean",
+        "code" : "ko"
+    },
+    {
+        "language" : "kashmiri",
+        "code" : "ks"
+    },
+    {
+        "language" : "latin",
+        "code" : "la"
+    },
+    {
+        "language" : "macedonian",
+        "code" : "mk"
+    },
+    {
+        "language" : "malayalam",
+        "code" : "ml"
+    },
+    {
+        "language" : "mangolian",
+        "code" : "mn"
+    },
+    {
+        "language" : "marathi",
+        "code" : "mr"
+    },
+    {
+        "language" : "nepali",
+        "code" : "ne"
+    },
+    {
+        "language" : "dutch",
+        "code" : "nl"
+    },
+    {
+        "language" : "panjabi",
+        "code" : "pa"
+    },
+    {
+        "language" : "pali",
+        "code" : "pi"
+    },
+    {
+        "language" : "portuguese",
+        "code" : "pt"
+    },
+    {
+        "language" : "romanian",
+        "code" : "ro"
+    },
+    {
+        "language" : "russian",
+        "code" : "ru"
+    },
+    {
+        "language" : "sindhi",
+        "code" : "sd"
+    },
+    {
+        "language" : "serbian",
+        "code" : "sr"
+    },
+    {
+        "language" : "swedish",
+        "code" : "sv"
+    },
+    {
+        "language" : "tamil",
+        "code" : "ta"
+    },
+    {
+        "language" : "telugu",
+        "code" : "te"
+    },
+    {
+        "language" : "thai",
+        "code" : "th"
+    },
+    {
+        "language" : "turkish",
+        "code" : "tr"
+    },
+    {
+        "language" : "urkrainian",
+        "code" : "uk"
+    },
+    {
+        "language" : "urdu",
+        "code" : "ur"
+    },
+    {
+        "language" : "vietnamese",
+        "code" : "vi"
+    },
+    {
+        "language" : "chinese",
+        "code" : "zh"
+    },
+    {
+        "language" : "luxembourgi sh",
+        "code" : "lb"
+    }
+]
+
+ 
