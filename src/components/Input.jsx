@@ -29,7 +29,7 @@ function Input({
         readOnly={readOnly} 
         onChange={(e)=>onTextChange(e.target.value)} 
         value={text} placeholder='enter text' 
-        className='p-2 hide-scrollbar bg-transparent border-2 w-full h-40 h-full overflow-y-scroll border-black rounded-md max-w-[620px]'></textarea>
+        className='p-2 hide-scrollbar bg-transparent border-2 w-full h-[500px] overflow-y-scroll border-black rounded-md max-w-[620px]'></textarea>
     </div>
   )
 }
